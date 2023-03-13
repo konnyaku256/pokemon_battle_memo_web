@@ -3,7 +3,7 @@ import Head from "next/head"
 export default function CustomHead() {
   return (
     <Head>
-      <title>ばとめも（Pokemon Battle Memo）</title>
+      <title>ばとめも（PK Battle Memo）</title>
       <meta name="description" content="「ばとめも」はポケモン対戦中のメモ特化型アプリです。" />
       <link rel="icon" href="/favicon.ico" />
       <meta name="twitter:card" content="summary_large_image" />
