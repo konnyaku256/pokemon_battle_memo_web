@@ -21,7 +21,7 @@ export default function Main() {
               >
                 <Image src="/google-play-badge.png" width="233" height="70" />
               </a>
-              <a href="">
+              <a href="https://apps.apple.com/jp/app/ばとめも-pk-battle-memo/id6446239026?platform=iphone">
                 <Image src="/app-store-badge.svg" width="190" height="100" />
               </a>
             </div>
